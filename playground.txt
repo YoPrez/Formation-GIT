@@ -1,2 +1,3 @@
 formation git
-2e ligne
+2e ligne modifiée
+3e ligne
