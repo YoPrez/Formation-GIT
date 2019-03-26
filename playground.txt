@@ -5,3 +5,4 @@ formation git
 4e ligne
 5e ligne 2n-branch
 6e ligne master
+6e ligne rebase
